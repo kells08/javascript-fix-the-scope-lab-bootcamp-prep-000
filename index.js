@@ -12,7 +12,7 @@ function yourAnimal() {
   return animal
 }
 
-var fuzzy = "cat"
+var fuzzy = 
 
 function add2(n) {
   const two = 2
