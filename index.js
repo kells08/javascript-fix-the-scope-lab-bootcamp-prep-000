@@ -2,7 +2,7 @@ var animal = 'dog'
 
 function myAnimal() {
   return animal
-  var animal = "cat"
+  
 }
 
 function yourAnimal() {
@@ -12,7 +12,7 @@ function yourAnimal() {
   return animal
 }
 
-
+var fuzzy = "cat"
 
 function add2(n) {
   const two = 2
